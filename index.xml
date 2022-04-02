@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shaan Luthra&#39;s Portfolio on Shaan Luthra</title>
+    <link>https://ShaanLuthra1.github.io/ShaanLuthra_Portfolio/</link>
+    <description>Recent content in Shaan Luthra&#39;s Portfolio on Shaan Luthra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://ShaanLuthra1.github.io/ShaanLuthra_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://ShaanLuthra1.github.io/ShaanLuthra_Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShaanLuthra1.github.io/ShaanLuthra_Portfolio/about/</guid>
+      <description>My name is Shaan Luthra and I am graduating in May 2022 from Purdue University with a B.S in Data Science. I am a Machine Learning Engineer with 4 years of professional Data Science experience. This past summer I worked at Hewlett Packard Enterprise as a Data Science Intern. I am currently working as a Machine Learning Researcher with Purdue University to develop a Speech Recognition system that is compatible with children’s voices.</description>
+    </item>
+    
+    <item>
+      <title>Child Speech Recognition Research</title>
+      <link>https://ShaanLuthra1.github.io/ShaanLuthra_Portfolio/post/chapter-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShaanLuthra1.github.io/ShaanLuthra_Portfolio/post/chapter-6/</guid>
+      <description>Highlights:
+ Model currently has 88% accuracy First Speech Recognition system to accurately transcribe children&amp;rsquo;s speech System is built using Signal Processing methods, Librosa, and Tensorflow  During my Junior and Senior year of College I worked as a Machine Learning Researcher where I built a Speech Recognition system that is compatible with children&amp;rsquo;s voices (age 3-5). Currently, no such system exists and current speech recognition systems are only about 20% accurate with transcribing young children&amp;rsquo;s speech.</description>
+    </item>
+    
+    <item>
+      <title>Clustering and Anomaly Detection to identify harmful log messages</title>
+      <link>https://ShaanLuthra1.github.io/ShaanLuthra_Portfolio/post/chapter-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShaanLuthra1.github.io/ShaanLuthra_Portfolio/post/chapter-5/</guid>
+      <description>This work was done as a Data Science Intern at Hewlett Packard Enterprise. I worked on the Primary Storage Customer Engineering Team.
+One of the most pressing concerns for our team was when customer had system failures. When this would happen, support engineers would have to spend hours of time looking through log messages to troubleshoot any error or failure. My work was to find a solution to quickly identify these harmful messages.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Tympanic Membrane Infections using Deep Learning</title>
+      <link>https://ShaanLuthra1.github.io/ShaanLuthra_Portfolio/post/chapter-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShaanLuthra1.github.io/ShaanLuthra_Portfolio/post/chapter-4/</guid>
+      <description>Highlights:
+ Model achieved 86% test accuracy Deep Learning model built with Tensorflow  From October 2020 - Feb 2021, I worked as a Machine Learning Engineer Intern at Safkan Health. Safkan is a healthcare company that is bringing to market the OtoSet. The OtoSet is a revolutionary health care solution to ear cleaning in the form of a headset.
+Within each OtoSet device, there will be a small camera that is able to capture an image of the inner-ear.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://ShaanLuthra1.github.io/ShaanLuthra_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShaanLuthra1.github.io/ShaanLuthra_Portfolio/contact/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Swift Summarizer</title>
+      <link>https://ShaanLuthra1.github.io/ShaanLuthra_Portfolio/post/chapter-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShaanLuthra1.github.io/ShaanLuthra_Portfolio/post/chapter-3/</guid>
+      <description>Highlights:
+ Swift Summarizer got an average of 400 page views per month while deployed Summarizer algorithm is built in pytorch using semantic embeddings  Swift Summarizer is a free to use text summarizer that also finds key insights about any piece of text. For this project, I developed the entire Django Web App and all of the Machine Learning components. I was also responsible for compiling the entire system and pushing it into Production.</description>
+    </item>
+    
+  </channel>
+</rss>
